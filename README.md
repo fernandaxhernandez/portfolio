@@ -18,6 +18,8 @@ Academic research project on classroom video analysis using computer vision and 
 
 Technologies: Python, Computer Vision, Deep Learning, CNNs
 
+Code: To be submitted.
+
 ---
 
 ### Autonomous Navigation and Object Collection using Puzzlebot
@@ -31,6 +33,8 @@ Systems and robotics project focused on autonomous navigation and object manipul
 - Built a distributed system bridging perception (Jetson Nano) and control (microcontroller).
 
 Technologies: C++, Python, FreeRTOS, Computer Vision, Embedded Systems, Jetson Nano
+
+Code: https://github.com/jorge-vh/McQueen.git
 
 ---
 
@@ -46,3 +50,5 @@ Embedded systems project focused on real-time control of a two-degree-of-freedom
 - Integrated fault detection and emergency stop logic to ensure safe operation.
 
 Technologies: C/C++, STM32, FreeRTOS, Embedded Systems, ROSserial, Real-Time Control
+
+Code: To be found in a folder inside this repo.
