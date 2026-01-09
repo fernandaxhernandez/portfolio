@@ -51,4 +51,4 @@ Embedded systems project focused on real-time control of a two-degree-of-freedom
 
 Technologies: C/C++, STM32, FreeRTOS, Embedded Systems, ROSserial, Real-Time Control
 
-Code: To be found in a folder inside this repo.
+Code: https://github.com/fernandaxhernandez/stm32-gripper-control.git
